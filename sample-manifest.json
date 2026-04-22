@@ -1,0 +1,12 @@
+{
+  "export_job_id": "339ef700-96ee-4fd6-85e1-cf3f1b73d1c9",
+  "id_short": 663659,
+  "published_at": "2026-04-22T07:51:03Z",
+  "repo_name": "white-space-finder-in-sacramento-roseville-folsom-metro-california-us-sample-663659",
+  "sample_asset_name": "beamstation_663659_food_and_drink-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/663659/beamstation_663659_food_and_drink-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "a7d8fe01e0a0b95a4a56207a620324996b281437895deb1e096f4a4fbefd2b48",
+  "sample_size_bytes": 20106,
+  "total_records": 1
+}
