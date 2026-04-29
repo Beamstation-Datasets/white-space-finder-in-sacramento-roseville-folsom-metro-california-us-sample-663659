@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 1 records |
 | Free sample size | 1 records (100.0%) |
-| Last export | 2026-04-22T01:24:27.514738+00:00 |
+| Last export | 2026-04-29T04:30:00.821461+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-sacramento-roseville-folsom-metro-california-us-sample-663659/releases/download/sample-latest/beamstation_663659_food_and_drink-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
